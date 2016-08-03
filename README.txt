@@ -12,7 +12,7 @@ After your project is set up, access the CMS at http://localhost:8080/cms and th
 Logs are located in target/tomcat7x/logs
 
 Building distribution
-=====================
+=====================dfdsf
 
 To build a Tomcat distribution tarball containing only deployable artifacts:
 
