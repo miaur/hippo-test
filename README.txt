@@ -7,7 +7,7 @@ From the project root folder, execute:
   mvn clean verify
   mvn -P cargo.run
 
-Access the Hippo Essentials at http://localhost:8080/essentials.
+Access the Hippo Essentials at http://localhost:8080/essentials.sdfdsf
 After your project is set up, access the CMS at http://localhost:8080/cms and the site at http://localhost:8080/site.
 Logs are located in target/tomcat7x/logs
 
