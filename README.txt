@@ -5,7 +5,7 @@ This project uses the Maven Cargo plugin to run Essentials, the CMS and site loc
 From the project root folder, execute:
 
   mvn clean verify
-  mvn -P cargo.run
+  mvn -P cargo.run fh 
 
 Access the Hippo Essentials at http://localhost:8080/essentials.sdfdsf
 After your project is set up, access the CMS at http://localhost:8080/cms and the site at http://localhost:8080/site.
